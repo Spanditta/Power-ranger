@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    
+    background-image: url(https://media.istockphoto.com/vectors/comic-page-bright-template-vector-id1140986564?k=20&m=1140986564&s=612x612&w=0&h=ry4MlABvtopr9iDRRgM08IwjpZ6ZUYlVSZ8giyLakAc=);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgba(255, 255, 255, 0); 
+ 
+}
+
+h3
+{
+	width: 1000px;
+	background-color: white;
+	display: inline-block;
+}
+
+
+
